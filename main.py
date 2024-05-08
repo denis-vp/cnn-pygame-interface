@@ -1,4 +1,4 @@
-from gui.mnistgui import MNISTGui
+from gui.mnist_gui import MNISTGui
 
 if __name__ == "__main__":
     mnist_gui = MNISTGui()
